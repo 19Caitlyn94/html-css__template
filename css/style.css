@@ -354,8 +354,9 @@ i {
         border-radius: 50px;
     }
     .footericons {
-        float: left;
-        margin-left: 28%;
+    text-align: center;
+    float: none;
+    margin: 0 auto;
     }
 }
 
